@@ -50,13 +50,13 @@ body{
 
 table{
     width: 100%;
-    // background: rgb(224, 223, 223);
+    background: rgb(224, 223, 223);
     box-sizing: border-box;
     height: 300px;
     max-height: 200px;
     overflow: hidden;
     overflow-y: visible;
-    background: red;
+    // background: red;
     tr{
         &.first{
             td{
